@@ -1,6 +1,0 @@
-c:\users\tomas alfonso\documents\visual studio 2013\Projects\UniqueElements\UniqueElements\bin\Debug\UniqueElements.exe.config
-c:\users\tomas alfonso\documents\visual studio 2013\Projects\UniqueElements\UniqueElements\bin\Debug\UniqueElements.exe
-c:\users\tomas alfonso\documents\visual studio 2013\Projects\UniqueElements\UniqueElements\bin\Debug\UniqueElements.pdb
-c:\users\tomas alfonso\documents\visual studio 2013\Projects\UniqueElements\UniqueElements\obj\Debug\UniqueElements.csprojResolveAssemblyReference.cache
-c:\users\tomas alfonso\documents\visual studio 2013\Projects\UniqueElements\UniqueElements\obj\Debug\UniqueElements.exe
-c:\users\tomas alfonso\documents\visual studio 2013\Projects\UniqueElements\UniqueElements\obj\Debug\UniqueElements.pdb

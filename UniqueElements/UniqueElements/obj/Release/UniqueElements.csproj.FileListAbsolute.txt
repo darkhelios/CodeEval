@@ -1,1 +1,0 @@
-c:\users\tomas alfonso\documents\visual studio 2013\Projects\UniqueElements\UniqueElements\bin\Release\UniqueElements.exe.config
