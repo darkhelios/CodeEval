@@ -1,0 +1,13 @@
+
+File.open('texto.txt').each_line do |line|
+
+	line = line.split(" ")
+	line = line.reverse
+	num = line[0].to_i
+
+	puts line[num]
+	 
+	
+	
+
+end
