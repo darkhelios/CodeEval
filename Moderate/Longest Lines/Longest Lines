@@ -1,0 +1,17 @@
+
+def num
+	x = File.open('texto.txt', &:readline)
+	end
+
+   $word = []
+   
+File.open('texto.txt').each_line do |line|
+
+		$word.push(line)	
+end
+
+$word.sort! {|left, right| right.length <=> left.length}
+puts $word[0..num().to_i-1]
+
+
+	
