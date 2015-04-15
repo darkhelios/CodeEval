@@ -1,0 +1,16 @@
+File.open('texto.txt').each_line do |line|
+	
+	line = line.to_s
+	line = line.strip
+	line = line.split('')
+
+	line.each { |n|
+
+		n = n.to_s
+		n = n.downcase
+		print n
+	}
+
+	puts ''
+
+end
