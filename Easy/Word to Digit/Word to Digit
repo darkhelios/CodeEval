@@ -1,0 +1,35 @@
+File.open('texto.txt').each_line do |line|
+	
+	line = line.to_s
+	line = line.strip
+	line = line.split(';')
+
+	line.each { |n|
+
+		if n == 'zero'
+			print 0
+		elsif n == 'one'
+			print 1
+		elsif n == 'two'
+			print 2
+		elsif n == 'three'
+			print 3
+		elsif n == 'four'
+			print 4
+		elsif n == 'five'
+			print 5
+		elsif n == 'six'
+			print 6
+		elsif n == 'seven'
+			print 7
+		elsif n == 'eight'
+			print 8
+		elsif n == 'nine'
+			print 9
+		end
+
+	}
+
+	puts ''
+
+end
