@@ -1,0 +1,19 @@
+File.open('texto.txt').each_line do |line|
+
+	line = line.strip
+	line = line.split(' ')
+
+	line.each { |n|
+
+		n = n.split('')
+		m = n[0].to_s.upcase
+
+		print m
+		print n[1..n.length].join('')
+		print ' '
+	
+	}
+	
+	puts ''
+
+end
