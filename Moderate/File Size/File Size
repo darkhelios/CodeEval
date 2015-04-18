@@ -1,0 +1,3 @@
+file = File.open('texto.txt')
+
+puts file.size
